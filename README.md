@@ -4,3 +4,9 @@
 
 # 📢Projeto 1 - Planta Feliz
 Bem-vindo ao Planta Feliz A solução visa eliminar as principais causas de morte de plantas, como o esquecimento, o excesso de água que causa apodrecimento da raiz e a falta de cuidado durante períodos de ausência, automatizando a irrigação de plantas domésticas.
+
+ Grupo:
+• Arthur Pereira Silva
+• Bernardo Ramos dos Santos
+• Rodrigo Lira Rodrigues
+• Luiz Gustavo Barbosa Machado
