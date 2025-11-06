@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29afe615-14bf-4a25-90b0-bfb1a49cc1c1" alt="Unifacisa Aulas" width="400" />
+  <img src="https://github.com/user-attachments/assets/2b844a7b-2ca0-4b77-8578-ef06950a8c79" alt="Unifacisa Aulas" width="400" />
 </p>
 
 # 📢Projeto 1 - Planta Feliz
